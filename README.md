@@ -1,2 +1,9 @@
 # shopping-game
-Created with CodeSandbox
+
+## 概要
+
+自作のブロック崩しゲームです。
+
+## ライセンス
+
+このプロジェクトは MIT ライセンスの下で公開されています。
